@@ -1,3 +1,17 @@
 .DS_Store
 etc/config.php
 .htaccess
+config.php
+config/
+logs/
+tmp/
+vendor/
+node_modules/
+.idea/
+*.log
+*.cache
+*.bak
+*.swp
+*.swo
+*.zip
+*.tar.gz        
